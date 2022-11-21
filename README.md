@@ -1,6 +1,6 @@
 <h1 align="center">Oii, eu sou a Luiza!</h1>
 <p>Uma grande sonhadora apaixonada por programação e tecnologia.</p>
- <img height="180em" src="img src="img/luizadw.png"/>
+<img height="180em" src="img src="img/luizadw.png">
 
 <hr>
 
