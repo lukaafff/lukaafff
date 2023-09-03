@@ -25,5 +25,15 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
- 
+
+<hr>
+
+### Projetos em destaque
+<div align="center">  
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=lukaafff&repo=Loja_DevBlusas-Front&bg_color=0d1117&border_color=ff91a4&show_icons=true&icon_color=fff&title_color=ff91a4&text_color=FFF)](https://github.com/lukaafff/Loja_DevBlusas-Front" /> 
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=lukaafff&repo=dias-mais-amarelos&bg_color=0d1117&border_color=ff91a4&show_icons=true&icon_color=fff&title_color=ff91a4&text_color=FFF)](https://github.com/lukaafff/dias-mais-amarelos" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=lukaafff&repo=player-music-api&bg_color=0d1117&border_color=ff91a4&show_icons=true&icon_color=fff&title_color=ff91a4&text_color=FFF)](https://github.com/lukaafff/player-music-api" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=lukaafff&repo=carrinho-seguidor-de-linha&bg_color=0d1117&border_color=ff91a4&show_icons=true&icon_color=fff&title_color=ff91a4&text_color=FFF)](https://github.com/lukaafff/carrinho-seguidor-de-linha" /> 
+</div>
+
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
